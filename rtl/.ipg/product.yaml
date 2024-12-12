@@ -1,0 +1,17 @@
+version: 1.4.1
+root_dir: /home/dan/go/src/ip/ipgrid-test/new/ip-ex2/vx-fpu
+manifest:
+    product_id: 279dec13-b029-4910-abab-6727af67ed95
+    release_id: 198d34a5-8191-4074-9aeb-a629c6c10a87
+    company: vxtreme
+    name: vx-fpu
+    release: 1.3.1
+    uri: vxtreme/vx-fpu/1-3-1
+    product_type: ""
+    product_category: ""
+    use_semver: true
+    package_sources: true
+    fp_extensions: .sv .vh
+    product_index: ipindex
+    last_update: 2024-12-12T09:20:45.189918-05:00
+    description: VX Floating Point Unit
